@@ -123,5 +123,7 @@ int main(int argc, char* argv[]){
     //after modify
     printf("[+] var=0x%x\n", var);
     
+    getchar();
+    
     return 0;
 }
